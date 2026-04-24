@@ -1,7 +1,6 @@
 # GeM
 The official PyTorch implementation of the paper "**GeM: Gaussian embeddings with Multi-hop graph transfer for next POI recommendation**"
 
-The code is coming soon~
 
 # Citation
 If you find this code useful for your research, please cite our paper:
